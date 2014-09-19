@@ -1,0 +1,13 @@
+#cabecera {
+	background-color: #CC00CC;
+	height: 100px;
+}
+
+#cabecera div {
+	position: fixed;
+	top: 45px;
+}
+
+#cabecera div:nth-child(2) {
+	left: 150px;
+}
