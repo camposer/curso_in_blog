@@ -7,12 +7,13 @@
 <head>
 	<meta charset="UTF-8">
 	<title>IJavaBlog</title>
+	<link href="css/comun.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
 	<%@ include file="cabecera.jsp" %>
-
-	Inicio...
-
+	<div id="body">
+		Inicio...
+	</div>
 	<%@ include file="pie.jsp" %>
 </body>
 </html>
